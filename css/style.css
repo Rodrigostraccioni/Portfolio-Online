@@ -426,7 +426,7 @@ section{
         height: auto;
     }
     .about{
-        margin-top: 10rem;
+        margin-top: 15rem;
         grid-template-columns: 1fr;
         text-align: center;
     }
